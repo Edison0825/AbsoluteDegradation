@@ -1,4 +1,0 @@
-# AbsoluteDegradation笔记
-## 核心内容
-**自然图像退化proxy不完全适配老电影胶片修复，还有很多物理因素，比如拍摄时的胶片颗粒、冲印时的负片/正片响应、划痕尘点、扫描
-时的抖动和数字压缩等。所以必须把这个过程 analog-to-digital film pipeline本身建模出来。**
